@@ -1,6 +1,6 @@
 ---
-title: CONTRIBUTING
-description:  Community contributing to MRTK.
+title: Contributing
+description: How to Contribute to the Mixed Reality Toolkit
 author: polar-kev
 ms.author: kesemple
 ms.date: 01/12/2021
