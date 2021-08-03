@@ -20,7 +20,7 @@ At Microsoft, we believe having access to strong communities is essential for de
 |**Stack Overflow**|[MR Questions](https://stackoverflow.com/questions/tagged/windows-mixed-reality)||
 |**Reddit WMR Headsets**|[WMR subreddit](https://www.reddit.com/r/WindowsMR/)|         |
 |**Reddit HoloLens**|[HoloLens subreddit](https://www.reddit.com/r/HoloLens/)|         |
-
+|**GlobalXR.Community**|[GlobalXR.Community](https://www.globalxr.community/)|The Global XR Community focusses only on the community around XR. That said, we have technical, functional and even business sessions. But our focus will always be on learning new things and meeting others in the community. We do not allow product and service promotions in any of our sessions and workshops. And the most important part is that all our events are free of charge. Free to participate as speaker, free to participate as attendee.|
 <br>
 
 ## Local Communities
